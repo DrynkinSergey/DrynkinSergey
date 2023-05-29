@@ -27,7 +27,7 @@ My name is Sergey, I'm 27 years old, and I have been involved in development for
 ---
 
 ### 💻 My stack:
-
+<img style="margin: 10px" src="https://media.proglib.io/posts/2019/09/23/862c8794e054ab2407425c117e8a0bd5.jpg" alt="Skills" />
 <div>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
