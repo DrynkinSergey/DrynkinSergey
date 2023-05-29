@@ -1,4 +1,4 @@
-
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
 # Hi, my name is Sergey!
 
@@ -11,7 +11,7 @@ My name is Sergey, I'm 27 years old, and I have been involved in development for
 
 
 
-- :mailbox: Сonnect with me: [![Telegram Badge](https://img.shields.io/badge/-drynkinSerg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/drynkinSerg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergsmile29@gmail.com)
+ [![Telegram Badge](https://img.shields.io/badge/-drynkinSerg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/drynkinSerg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergsmile29@gmail.com)
 
 ---
 
