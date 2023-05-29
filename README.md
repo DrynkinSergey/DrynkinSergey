@@ -1,14 +1,4 @@
-### Hi there 👋
 
-<!--
-**DrynkinSergey/DrynkinSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on GoIt
-- 🌱 I’m currently learning Frontend stack
-
--->
 
 # Hi, my name is Sergey!
 
@@ -16,13 +6,12 @@ Here are some ideas to get you started:
 
 ### :man_technologist: Summary:
 
-Hello! 👋
 
 My name is Sergey, I'm 27 years old, and I have been involved in development for the past 2 years. 🚀 I am actively learning and improving myself in the field of frontend development. 💻 I consider myself a responsible, proactive, and pleasant individual. 😊 I have a strong passion for knowledge and a great enthusiasm for learning something new. 🌟
 
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-drynkinSerg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/drynkinSerg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergsmile29@gmail.com)
+- :mailbox: Сonnect with me: [![Telegram Badge](https://img.shields.io/badge/-drynkinSerg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/drynkinSerg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergsmile29@gmail.com)
 
 ---
 
