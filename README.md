@@ -7,7 +7,7 @@
 ### :man_technologist: Summary:
 
 
-My name is Sergey, I'm 27 years old, and I have been involved in development for the past 2 years. 🚀 I am actively learning and improving myself in the field of frontend development. 💻 I consider myself a responsible, proactive, and pleasant individual. 😊 I have a strong passion for knowledge and a great enthusiasm for learning something new. 🌟
+I'm 27 years old, and I have been involved in development for the past 2 years. 🚀 I am actively learning and improving myself in the field of frontend development. 💻 I consider myself a responsible, proactive, and pleasant individual. 😊 I have a strong passion for knowledge and a great enthusiasm for learning something new. 🌟
 
 
 
@@ -27,7 +27,7 @@ My name is Sergey, I'm 27 years old, and I have been involved in development for
 ---
 
 ### 💻 My stack:
-<img style="margin: 10px" src="https://media.proglib.io/posts/2019/09/23/862c8794e054ab2407425c117e8a0bd5.jpg" alt="Skills" />
+
 <div>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -44,10 +44,8 @@ My name is Sergey, I'm 27 years old, and I have been involved in development for
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
+<img style="margin: 10px" src="https://media.proglib.io/posts/2019/09/23/862c8794e054ab2407425c117e8a0bd5.jpg" alt="Skills" />
 
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/DrynkinSergey/badges/large)
 
 
