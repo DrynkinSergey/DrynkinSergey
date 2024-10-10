@@ -7,7 +7,8 @@
 ### :man_technologist: Summary:
 
 
-I'm 27 years old, and I have been involved in development for the past 2 years. 🚀 I am actively learning and improving myself in the field of frontend development. 💻 I consider myself a responsible, proactive, and pleasant individual. 😊 I have a strong passion for knowledge and a great enthusiasm for learning something new. 🌟
+I am a 28-year-old developer with four years of experience, actively growing in frontend development. My key qualities are responsibility, proactiveness, and a positive attitude. I am always eager to learn and develop with enthusiasm, mastering cutting-edge technologies. In my work, I use tools like AWS, Python, Node.js, and I actively apply artificial intelligence. My journey is one of continuous improvement and striving for new heights! 🌟
+
 
 
 
