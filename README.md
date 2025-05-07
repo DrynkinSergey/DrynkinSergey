@@ -7,12 +7,11 @@
 ### :man_technologist: Summary:
 
 
-I am a 28-year-old developer with four years of experience, actively growing in frontend development. My key qualities are responsibility, proactiveness, and a positive attitude. I am always eager to learn and develop with enthusiasm, mastering cutting-edge technologies. In my work, I use tools like AWS, Node.js, and I actively apply artificial intelligence. My journey is one of continuous improvement and striving for new heights! 🌟
-
-
-
-
- [![Telegram Badge](https://img.shields.io/badge/-drynkinSerg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/drynkinSerg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergsmile29@gmail.com)
+I am a 29-year-old developer with four years of experience, currently focusing on frontend development.
+I am responsible, proactive, and maintain a positive attitude.
+I’m always eager to learn and enthusiastic about mastering cutting-edge technologies.
+In my work, I leverage tools such as AWS and Node.js, and actively apply artificial intelligence.
+My journey is one of continuous improvement and a drive to reach new heights! 🌟
 
 ---
 
@@ -22,12 +21,29 @@ I am a 28-year-old developer with four years of experience, actively growing in 
     <a href="https://www.linkedin.com/in/drynkinsergey" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-
   </div>
 
----
 
-### 💻 My stack:
+---
+### Stack
+
+- Domains: E-Commerce, SaaS
+- Languages: JavaScript, TypeScript
+- Frontend: React, Redux, Zustand, Next.Js
+- Backend: NodeJS, Express.js, NestJS
+- Databases: MongoDB, PostgreSQL, DynamoDB
+- ORMs: Mongoose, Prisma, TypeORM
+- Unit tests: Jest
+- Cloud & DevOps: AWS (Cognito, S3, SES, IAM, Lambda, CloudWatch, Security Hub, API Gateway, ALB), CDK, Terraform
+- API Tools: Fetch, Axios, React Query, RTK Query
+
+
+
+
+ [![Telegram Badge](https://img.shields.io/badge/-drynkinSerg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/drynkinSerg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergsmile29@gmail.com)
+
+
+### 💻 Technologies:
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
